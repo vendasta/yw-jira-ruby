@@ -1,0 +1,6 @@
+services:
+  - name: yw-jira-ruby
+    owner: honey-badger
+    language: ruby
+    nonServiceType: library
+    description: "A Ruby gem for the JIRA 5 REST API"
